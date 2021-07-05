@@ -2,7 +2,7 @@
 
 ### （このサイトは、実習データをそれっぽく見せるための偽サイトです）
 
-![image](./rich-tervet-QHdsm9kvKwI-unsplash.jpg)
+<img src="./rich-tervet-QHdsm9kvKwI-unsplash.jpg" width=50%> 
 
 写真は [Rich Tervet](https://unsplash.com/@richtervet) 
 from [UNSPLASH](https://unsplash.com/photos/QHdsm9kvKwI)
