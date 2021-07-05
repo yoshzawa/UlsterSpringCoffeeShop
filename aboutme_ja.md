@@ -2,6 +2,11 @@
 
 ### （このサイトは、実習データをそれっぽく見せるための偽サイトです）
 
+![image](./rich-tervet-QHdsm9kvKwI-unsplash.jpg)
+
+写真は [Rich Tervet](https://unsplash.com/@richtervet) 
+from [UNSPLASH](https://unsplash.com/photos/QHdsm9kvKwI)
+
 ## 私たちについて
 
 私たちのカフェはジャマイカのアルスタースプリングにあります。
@@ -22,5 +27,6 @@ https://www.google.com/maps/place/Jamaica+Falmouth+Seaboard+st/
 ## もうすぐ日本のみんなに会います
 
 当店は、2021年10月に日本の仙台駅の近くにジャマイカ以外の国で初めてオープンします。
-アルスタースプリングに生まれ、地元の人々に愛されています。日本のみんなに大好きなコーヒーを楽しんでもらいたいです。
+アルスタースプリングに生まれ、地元の人々に愛されています。日本のみんなに大好きなコーヒーを早く
+楽しんでもらいたいです。
 
