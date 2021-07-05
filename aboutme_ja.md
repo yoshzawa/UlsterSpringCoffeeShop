@@ -16,7 +16,7 @@ https://www.google.com/maps/place/Jamaica+ulster+spring/
 
 https://www.google.com/maps/place/Jamaica+trelawny+parish/
 
-https://www.google.com/maps/place/Jamaica+Seaboard+street/
+https://www.google.com/maps/place/Jamaica+Falmouth+Seaboard+st/
 
 
 ## もうすぐ日本のみんなに会います
