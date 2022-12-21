@@ -1,0 +1,25 @@
+ITEM_NO,ITEM_NAME,price,ITEM_TYPE_NO
+B01,JAMAICA BLUE MOUNTAIN Light Roast 100g,13,2
+B02,JAMAICA BLUE MOUNTAIN Middleton 100g,28,2
+B03,JAMAICA BLUE MOUNTAIN Blend 100g,9,2
+B04,"JAMAICA BLUE MOUNTAIN ""Volcano"" 100g",36,2
+V01,Coffee of the day small,3,1
+V02,Coffee of the day large,5,1
+V03,Iced coffee large,6,1
+V04,Milk Large,6,1
+V05,Caf? Au Lait Hot Short,4,1
+V06,Caf? Au Lait Hot Large,7,1
+V07,French Press Coffee Hot Large,8,1
+V08,Smoothies Large,9,1
+V09,Ulster Spring Lemonade Hot Large,5,1
+V10,Ulster Spring Lemonade Cold Large,6,1
+V11,Ulster Spring Lemonade Squash Large,7,1
+V12,Coffee Jerry of the day,6,1
+F01,Jamaican Style Cheese Burger,15,3
+F02,Crispy Fish Burger,13,3
+F03,Creamy Cheese Carbonara,10,3
+F04,Classic Margarita Pizza,16,3
+F05,Clam Chowder,5,3
+F06," ""Volcano"" Garlic Butter Shrimp",10,3
+F07,Jerk Chicken Sandwich,8,3
+F08,Jerk Pork Sandwich with French Fries,10,3

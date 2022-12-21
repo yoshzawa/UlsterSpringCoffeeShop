@@ -1,0 +1,7 @@
+{
+	"ItemType":[
+		{"ITEM_TYPE_NO":1,"ITEM_TYPE_NAME":"BEVERAGE"},
+		{"ITEM_TYPE_NO":2,"ITEM_TYPE_NAME":"BEANS"},
+		{"ITEM_TYPE_NO":3,"ITEM_TYPE_NAME":"FOODS"}
+	]
+}
