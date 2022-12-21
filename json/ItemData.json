@@ -1,0 +1,29 @@
+{
+	"Item":[
+{"ITEM_NO":"B01","ITEM_NAME":"JAMAICA BLUE MOUNTAIN Light Roast 100g","PRICE":13,"ITEM_TYPE_NO":2},
+{"ITEM_NO":"B02","ITEM_NAME":"JAMAICA BLUE MOUNTAIN Middleton 100g","PRICE":28,"ITEM_TYPE_NO":2},
+{"ITEM_NO":"B03","ITEM_NAME":"JAMAICA BLUE MOUNTAIN Blend 100g","PRICE":9,"ITEM_TYPE_NO":2},
+{"ITEM_NO":"B04","ITEM_NAME":"JAMAICA BLUE MOUNTAIN 'Volcano' 100g","PRICE":36,"ITEM_TYPE_NO":2},
+{"ITEM_NO":"V01","ITEM_NAME":"Coffee of the day small","PRICE":3,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V02","ITEM_NAME":"Coffee of the day large","PRICE":5,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V03","ITEM_NAME":"Iced coffee large","PRICE":6,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V04","ITEM_NAME":"Milk Large","PRICE":6,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V05","ITEM_NAME":"Café Au Lait Hot Short","PRICE":4,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V06","ITEM_NAME":"Café Au Lait Hot Large","PRICE":7,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V07","ITEM_NAME":"French Press Coffee Hot Large","PRICE":8,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V08","ITEM_NAME":"Smoothies Large","PRICE":9,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V09","ITEM_NAME":"Ulster Spring Lemonade Hot Large","PRICE":5,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V10","ITEM_NAME":"Ulster Spring Lemonade Cold Large","PRICE":6,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V11","ITEM_NAME":"Ulster Spring Lemonade Squash Large","PRICE":7,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"V12","ITEM_NAME":"Coffee Jerry of the day","PRICE":6,"ITEM_TYPE_NO":1},
+{"ITEM_NO":"F01","ITEM_NAME":"Jamaican Style Cheese Burger","PRICE":15,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F02","ITEM_NAME":"Crispy Fish Burger","PRICE":13,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F03","ITEM_NAME":"Creamy Cheese Carbonara","PRICE":10,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F04","ITEM_NAME":"Classic Margarita Pizza","PRICE":16,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F05","ITEM_NAME":"Clam Chowder","PRICE":5,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F06","ITEM_NAME":"'Volcano' Garlic Butter Shrimp","PRICE":10,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F07","ITEM_NAME":"Jerk Chicken Sandwich","PRICE":8,"ITEM_TYPE_NO":3},
+{"ITEM_NO":"F08","ITEM_NAME":"Jerk Pork Sandwich with French Fries","PRICE":10,"ITEM_TYPE_NO":3},
+
+	]
+}
